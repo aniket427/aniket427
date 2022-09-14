@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java Backend Development<br><br>👨‍💻 My Portfolio: https://aniket427/github.io<br><br>💬 Ask me about Java, JavaScript, Data Structure & Algorithm<br><br>📫 How to reach me bhandarkaraniket0@gmail.com
+🌱 I’m currently learning Java Backend Development<br><br>👨‍💻 My Portfolio: https://aniket427.github.io/ <br><br>💬 Ask me about Java, JavaScript, Data Structure & Algorithm<br><br>📫 How to reach me bhandarkaraniket0@gmail.com
 
 
 ## 🌐 Socials:
